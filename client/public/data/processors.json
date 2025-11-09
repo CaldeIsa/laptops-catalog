@@ -1,0 +1,124 @@
+{
+  "processors": [
+    {
+      "name": "Athlon Dual Core",
+      "slug": "athlon-dual-core"
+    },
+    {
+      "name": "Celeron Dual Core",
+      "slug": "celeron-dual-core"
+    },
+    {
+      "name": "Celeron Quad Core",
+      "slug": "celeron-quad-core"
+    },
+    {
+      "name": "Core i3",
+      "slug": "core-i3"
+    },
+    {
+      "name": "Core i5",
+      "slug": "core-i5"
+    },
+    {
+      "name": "Core i7",
+      "slug": "core-i7"
+    },
+    {
+      "name": "Core i9",
+      "slug": "core-i9"
+    },
+    {
+      "name": "M1",
+      "slug": "m1"
+    },
+    {
+      "name": "M1 Max",
+      "slug": "m1-max"
+    },
+    {
+      "name": "M1 Pro",
+      "slug": "m1-pro"
+    },
+    {
+      "name": "M2",
+      "slug": "m2"
+    },
+    {
+      "name": "M2 Max",
+      "slug": "m2-max"
+    },
+    {
+      "name": "M3 Pro",
+      "slug": "m3-pro"
+    },
+    {
+      "name": "MediaTek Kompanio 1200",
+      "slug": "mediatek-kompanio-1200"
+    },
+    {
+      "name": "MediaTek Kompanio 500",
+      "slug": "mediatek-kompanio-500"
+    },
+    {
+      "name": "MediaTek Kompanio 520",
+      "slug": "mediatek-kompanio-520"
+    },
+    {
+      "name": "MediaTek MT8788",
+      "slug": "mediatek-mt8788"
+    },
+    {
+      "name": "Pentium Silver",
+      "slug": "pentium-silver"
+    },
+    {
+      "name": "Ryzen 3 Dual Core",
+      "slug": "ryzen-3-dual-core"
+    },
+    {
+      "name": "Ryzen 3 Quad Core",
+      "slug": "ryzen-3-quad-core"
+    },
+    {
+      "name": "Ryzen 5",
+      "slug": "ryzen-5"
+    },
+    {
+      "name": "Ryzen 5 Dual Core",
+      "slug": "ryzen-5-dual-core"
+    },
+    {
+      "name": "Ryzen 5 Hexa Core",
+      "slug": "ryzen-5-hexa-core"
+    },
+    {
+      "name": "Ryzen 5 Quad Core",
+      "slug": "ryzen-5-quad-core"
+    },
+    {
+      "name": "Ryzen 7 Octa Core",
+      "slug": "ryzen-7-octa-core"
+    },
+    {
+      "name": "Ryzen 7 Quad Core",
+      "slug": "ryzen-7-quad-core"
+    },
+    {
+      "name": "Ryzen 9 16 Core",
+      "slug": "ryzen-9-16-core"
+    },
+    {
+      "name": "Ryzen 9 Octa Core",
+      "slug": "ryzen-9-octa-core"
+    },
+    {
+      "name": "Ryzen Z1 HexaCore",
+      "slug": "ryzen-z1-hexacore"
+    },
+    {
+      "name": "Ryzen Z1 Octa Core",
+      "slug": "ryzen-z1-octa-core"
+    }
+  ]
+}

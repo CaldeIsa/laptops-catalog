@@ -1,0 +1,76 @@
+{
+  "brands": [
+    {
+      "name": "ASUS",
+      "slug": "asus"
+    },
+    {
+      "name": "Acer",
+      "slug": "acer"
+    },
+    {
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "name": "CHUWI",
+      "slug": "chuwi"
+    },
+    {
+      "name": "DELL",
+      "slug": "dell"
+    },
+    {
+      "name": "GIGABYTE",
+      "slug": "gigabyte"
+    },
+    {
+      "name": "HP",
+      "slug": "hp"
+    },
+    {
+      "name": "Infinix",
+      "slug": "infinix"
+    },
+    {
+      "name": "LG",
+      "slug": "lg"
+    },
+    {
+      "name": "Lenovo",
+      "slug": "lenovo"
+    },
+    {
+      "name": "MICROSOFT",
+      "slug": "microsoft"
+    },
+    {
+      "name": "MSI",
+      "slug": "msi"
+    },
+    {
+      "name": "Primebook",
+      "slug": "primebook"
+    },
+    {
+      "name": "SAMSUNG",
+      "slug": "samsung"
+    },
+    {
+      "name": "Ultimus",
+      "slug": "ultimus"
+    },
+    {
+      "name": "WINGS",
+      "slug": "wings"
+    },
+    {
+      "name": "ZEBRONICS",
+      "slug": "zebronics"
+    },
+    {
+      "name": "realme",
+      "slug": "realme"
+    }
+  ]
+}

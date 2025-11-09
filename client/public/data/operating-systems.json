@@ -1,0 +1,60 @@
+{
+  "os": [
+    {
+      "name": "Chrome",
+      "slug": "chrome"
+    },
+    {
+      "name": "DOS",
+      "slug": "dos"
+    },
+    {
+      "name": "Mac OS Big Sur",
+      "slug": "mac-os-big-sur"
+    },
+    {
+      "name": "Mac OS Mojave",
+      "slug": "mac-os-mojave"
+    },
+    {
+      "name": "Mac OS Monterey",
+      "slug": "mac-os-monterey"
+    },
+    {
+      "name": "Prime OS",
+      "slug": "prime-os"
+    },
+    {
+      "name": "Ubuntu",
+      "slug": "ubuntu"
+    },
+    {
+      "name": "Windows 10",
+      "slug": "windows-10"
+    },
+    {
+      "name": "Windows 10 Home",
+      "slug": "windows-10-home"
+    },
+    {
+      "name": "Windows 10 Pro",
+      "slug": "windows-10-pro"
+    },
+    {
+      "name": "Windows 11 Home",
+      "slug": "windows-11-home"
+    },
+    {
+      "name": "Windows 11 Pro",
+      "slug": "windows-11-pro"
+    },
+    {
+      "name": "macOS Sonoma",
+      "slug": "macos-sonoma"
+    },
+    {
+      "name": "macOS Ventura",
+      "slug": "macos-ventura"
+    }
+  ]
+}

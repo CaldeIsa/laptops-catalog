@@ -1,0 +1,29 @@
+---
+title: "ASUS TUF Gaming F15"
+brand: "ASUS"
+model: "TUF Gaming F15"
+processor: "Core i7"
+os: "Windows 11 Home"
+screen_size: "39.62"
+touch_screen: "Yes"
+price: 899.88
+storage_mb: 1000
+ram_gb: 16
+---
+
+# ASUS TUF Gaming F15
+
+## Especificaciones Técnicas
+
+| Característica | Valor |
+| :--- | :--- |
+| **Marca** | ASUS |
+| **Modelo** | TUF Gaming F15 |
+| **Procesador** | Core i7 |
+| **Sistema Operativo** | Windows 11 Home |
+| **Almacenamiento (MB)** | 1000 |
+| **RAM (GB)** | 16 |
+| **Tamaño de Pantalla (cm)** | 39.62 |
+| **Pantalla Táctil** | Yes |
+| **Precio (USD)** | 899.88 |
+
